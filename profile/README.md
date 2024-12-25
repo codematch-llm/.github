@@ -6,7 +6,7 @@ Below, you'll find the general workflow of CodeMatch, which outlines how the sys
 
 <img src="https://github.com/user-attachments/assets/e0282343-a483-4b2a-8a8b-099c67778d82" alt="Workflow" width="500">
 
-The diagram above showcases the general workflow of the CodeMatch system. Each step is numbered from 1 to 10, representing the different stages of the process. Steps 7 and 10 occur after the optimal LLM has been selected and the system is fully operational.
+Each step is numbered from 1 to 10, representing the different stages of the process. Steps 7 and 10 occur after the optimal LLM has been selected and the system is fully operational.
 
 ### Components of the Workflow
 
