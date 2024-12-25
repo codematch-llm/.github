@@ -4,9 +4,9 @@ In this project we aim to solve the modern challenge of code cloning, which has 
 
 Below, you'll find the general workflow of CodeMatch, which outlines how the system works end-to-end. Following the workflow, we provide detailed explanations of each component to give you a clear understanding of the technology behind it.
 
-<img src="https://github.com/user-attachments/assets/4abe609c-c411-4cd3-aa00-f09c4f45290d" alt="Workflow" width="500">
+<img src="https://github.com/user-attachments/assets/e0282343-a483-4b2a-8a8b-099c67778d82" alt="Workflow" width="500">
 
-The diagram above showcases the general workflow of the CodeMatch system. Each step is numbered from 1 to 8, representing the different stages of the process. Steps 7 and 8 occur after the optimal LLM has been selected and the system is fully operational.
+The diagram above showcases the general workflow of the CodeMatch system. Each step is numbered from 1 to 10, representing the different stages of the process. Steps 7 and 10 occur after the optimal LLM has been selected and the system is fully operational.
 
 ### Components of the Workflow
 
