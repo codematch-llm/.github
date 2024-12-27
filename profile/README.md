@@ -8,7 +8,7 @@ In this project we aim to solve the modern challenge of code cloning, which has 
 
 
 ## Project Workflow
-Below is the general workflow of CodeMatch, which outlines how the system works end-to-end. Following the workflow, we provide detailed explanations of each component to give you a clear understanding of the process behind it.
+Below is the general workflow of CodeMatch, which outlines how the system works end-to-end. Following the workflow, we provide detailed explanations of each component to give a clear understanding of the process behind it.
 
 <img src="https://github.com/user-attachments/assets/e0282343-a483-4b2a-8a8b-099c67778d82" alt="Workflow" width="500">
 
