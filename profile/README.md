@@ -3,8 +3,8 @@
 In this project we aim to solve the modern challenge of code cloning, which has become increasingly common with the rise of AI-generated solutions. Using the power of Large Language Models (LLMs), CodeMatch helps developers ensure their code is original, compliant with licensing requirements, and free from intellectual property issues. The project is designed to identify and flag potential code clones, making it a valuable tool for fostering confidence and integrity in software development.
 
 ## System Screenshots
-<img src="https://github.com/user-attachments/assets/b0c4aaa6-92f0-4485-b134-16d2c6023db1" alt="inputted-code" width="400">
-<img src="https://github.com/user-attachments/assets/9d9575a0-0616-4fff-98f7-7d5ace4c271b" alt="search-result" width="400">
+<img src="https://github.com/user-attachments/assets/b0c4aaa6-92f0-4485-b134-16d2c6023db1" alt="inputted-code" width="420">
+<img src="https://github.com/user-attachments/assets/9d9575a0-0616-4fff-98f7-7d5ace4c271b" alt="search-result" width="420">
 
 
 ## Project Workflow
