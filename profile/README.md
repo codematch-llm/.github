@@ -6,8 +6,8 @@ In this project we aim to solve the modern challenge of code cloning, which has 
 <img src="https://github.com/user-attachments/assets/b0c4aaa6-92f0-4485-b134-16d2c6023db1" alt="inputted-code" width="400">
 <img src="https://github.com/user-attachments/assets/9d9575a0-0616-4fff-98f7-7d5ace4c271b" alt="search-result" width="400">
 
----
 
+## Project Workflow
 Below is the general workflow of CodeMatch, which outlines how the system works end-to-end. Following the workflow, we provide detailed explanations of each component to give you a clear understanding of the process behind it.
 
 <img src="https://github.com/user-attachments/assets/e0282343-a483-4b2a-8a8b-099c67778d82" alt="Workflow" width="500">
