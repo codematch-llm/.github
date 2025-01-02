@@ -78,11 +78,13 @@ The frontend provides a user-friendly interface that interacts with the backend.
 
 The frontend is part of the system repository - [system-frontend](https://github.com/codematch-llm/system).
 
---
+---
 
-In each repository there is a more in-depth explanation of how its respective components work and are implemented in detail.
+💡 In each repository there is a more in-depth explanation of how its respective components work and are implemented in detail.
 
---
+---
+
+📝🤝 Note - This project was completed for [Checkmarx](https://github.com/checkmarx), serving as a proof of concept (PoC) to address the requirements outlined by their product users.
 
 
 
