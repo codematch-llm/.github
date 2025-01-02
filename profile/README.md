@@ -7,12 +7,19 @@
 
 In this project we aim to solve the modern challenge of code cloning, which has become increasingly common with the rise of AI-generated solutions. Using the power of Large Language Models (LLMs), CodeMatch helps developers ensure their code is original, compliant with licensing requirements, and free from intellectual property issues. The project is designed to identify and flag potential code clones, making it a valuable tool for fostering confidence and integrity in software development.
 
-## System Screenshots
-<img src="https://github.com/user-attachments/assets/b0c4aaa6-92f0-4485-b134-16d2c6023db1" alt="inputted-code" width="420">
-<img src="https://github.com/user-attachments/assets/9d9575a0-0616-4fff-98f7-7d5ace4c271b" alt="search-result" width="420">
+## 🖥️ User Interface Overview
 
+- **Main Page**: Enter the desired code snippet to find existing GitHub projects with similar code.  
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/43bc9da3-689d-4077-8194-0daf9de8ea92" alt="Inputted Code" width="1000">
+  </div>
 
-## Project Workflow
+- **Similar GitHub Projects Page**: Displays all the GitHub projects with code similar to the input.  
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/21bae129-d765-4246-ae6e-2861ba02d685" alt="Search Results" width="1000">
+  </div>
+
+## 🔀 Project Workflow
 Below is the general workflow of CodeMatch, which outlines how the system works end-to-end. Following the workflow, we provide detailed explanations of each component to give a clear understanding of the process behind it.
 
 <img src="https://github.com/user-attachments/assets/e0282343-a483-4b2a-8a8b-099c67778d82" alt="Workflow" width="500">
@@ -42,7 +49,7 @@ Each step is numbered from 1 to 10, representing the different stages of the pro
 10. **System Output Through Frontend**: The results, including similar code snippets and their sources, are displayed in an easy-to-understand format on the frontend. This allows users to assess the originality and compliance of their code efficiently.
 
 
-### Outlining the Core Components
+### 🔑 Outlining the Core Components
 
 From the workflow outlined above, three key components of the CodeMatch system can be identified:
 
